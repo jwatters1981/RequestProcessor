@@ -1,0 +1,2 @@
+include 'ApplicationConfiguration'
+project(':ApplicationConfiguration').projectDir = new File(settingsDir, '../../ApplicationConfiguration') 
